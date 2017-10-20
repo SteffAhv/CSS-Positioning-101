@@ -19,11 +19,11 @@ A continuación los ejercicios replicados:
  * [101-D](https://steffahv.github.io/101-D/)
  * [101-E](https://steffahv.github.io/101-E/)
  * [101-F](https://steffahv.github.io/101-F/)
- * [101-G](https://steffahv.github.io/101-G/index.html)
- * [101-H](101-H/index.html)
- * [101-H2](101-H2/index.html)
- * [101-H3](101-H3/index.html)
- * [101-I](101-I/index.html)
- * [101-J](index.html)
+ * [101-G](https://steffahv.github.io/101-G/)
+ * [101-H](https://steffahv.github.io/101-H/)
+ * [101-H2](https://steffahv.github.io/101-H2/)
+ * [101-H3](https://steffahv.github.io/101-H3/)
+ * [101-I](https://steffahv.github.io/101-I/)
+ * [101-J](https://steffahv.github.io/CSS-Positioning-101/)
  
  
