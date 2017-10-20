@@ -1,0 +1,19 @@
+p {
+  text-align:justify;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
+#box_2 {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  background: rgb(242, 86, 58);
+  text-align: center;
+  display: block;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 12px;
+
+}
