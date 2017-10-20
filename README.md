@@ -13,7 +13,7 @@ Herramientas que usamos en este repositorio:
 
 A continuación los ejercicios replicados:
 
- * [101-A](101-A/index.html)
+ * [101-A](https://steffahv.github.io/101-A/)
  * [101-B](101-B/index.html)
  * [101-C](101-C/index.html)
  * [101-D](101-D/index.html)
