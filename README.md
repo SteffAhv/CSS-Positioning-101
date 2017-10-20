@@ -21,9 +21,9 @@ A continuación los ejercicios replicados:
  * [101-F](101-F/index.html)
  * [101-G](101-G/index-html)
  * [101-H](101-H/index.html)
- * [101-H2(101-H2/index.html)
- * [101-H3(101-H3/index.html)
- * [101-I(101-I/index.html)
- * [101-J(index.html)
+ * [101-H2](101-H2/index.html)
+ * [101-H3](101-H3/index.html)
+ * [101-I](101-I/index.html)
+ * [101-J](index.html)
  
  
