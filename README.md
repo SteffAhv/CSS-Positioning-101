@@ -13,4 +13,4 @@ Herramientas que usamos en este repositorio:
 
 A continuación los ejercicios replicados:
 
- * [101-A](101-A/index.html)
+ * [101-A](file:///C:/Users/esthefany/Documents/Positioning%20101/101-A/index.html)
