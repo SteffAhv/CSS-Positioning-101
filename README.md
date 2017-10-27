@@ -24,6 +24,6 @@ A continuación los ejercicios replicados:
  * [101-H2](https://steffahv.github.io/101-H2/)
  * [101-H3](https://steffahv.github.io/101-H3/)
  * [101-I](https://steffahv.github.io/101-I/)
- * [101-J](https://steffahv.github.io/CSS-Positioning-101/)
+ * [101-J](https://steffahv.github.io/css-positioning-101/)
  
  
